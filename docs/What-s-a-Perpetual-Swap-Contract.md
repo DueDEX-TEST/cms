@@ -1,8 +1,8 @@
 ---
 slug: /What-s-a-Perpetual-Swap-Contract
 id: What-s-a-Perpetual-Swap-Contract
-title: # What's a Perpetual Swap Contract?
-sidebar_label: # What's a Perpetual Swap Contract?
+title: What's a Perpetual Swap Contract?
+sidebar_label: What's a Perpetual Swap Contract?
 author: DueDEX
 author_title: DueDEX
 author_url: https://www.duedex.com

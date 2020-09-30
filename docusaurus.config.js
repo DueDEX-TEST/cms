@@ -30,12 +30,12 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
+              label: 'Liquidation Price USDT Contract',
               to: '/',
             },
             {
-              label: 'Second Doc',
-              to: 'doc2/',
+              label: 'What\'s a Perpetual Swap Contract?',
+              to: 'What-s-a-Perpetual-Swap-Contract/',
             },
           ],
         },
