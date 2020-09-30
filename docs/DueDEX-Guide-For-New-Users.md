@@ -1,6 +1,8 @@
 ---
-slug: duedex-guide-for-new-users
+slug: /DueDEX-Guide-For-New-Users
+id: DueDEX-Guide-For-New-Users
 title: DueDEX Guide for New Users
+sidebar_label: DueDEX Guide for New Users
 author: DueDEX
 author_title: DueDex
 author_url: https://www.duedex.com
@@ -13,7 +15,6 @@ tags: [DueDEX, Bitcoins]
 
 DueDEX is currently enabling users to trade with BTCUSD & BTCUSDT perpetual swap contracts with up to 100x leverage. A perpetual swap is an innovative derivative product. It trades like spot, tracking the underlying Index Price closely. It is also very similar to traditional futures, but it doesn’t have an expiry date, so there is no settlement. 24/7 trading allows traders to open a position or close a position whenever they like to.
 
-<!--truncate-->
 
 ### 2. DueDEX Features
 -   Up to 100x leverage trading, high return against high risks
