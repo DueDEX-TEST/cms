@@ -1,4 +1,3 @@
-
 ---
 slug: test-your-trading-strategy-on-duedex-testnet
 title: Test Your Trading Strategy on DueDEX Testnet

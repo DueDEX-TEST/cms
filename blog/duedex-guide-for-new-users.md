@@ -1,4 +1,3 @@
-
 ---
 slug: duedex-guide-for-new-users
 title: DueDEX Guide for New Users
