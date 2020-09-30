@@ -13,6 +13,8 @@ tags: [DueDEX, Bitcoins]
 
 DueDEX is currently enabling users to trade with BTCUSD & BTCUSDT perpetual swap contracts with up to 100x leverage. A perpetual swap is an innovative derivative product. It trades like spot, tracking the underlying Index Price closely. It is also very similar to traditional futures, but it doesn’t have an expiry date, so there is no settlement. 24/7 trading allows traders to open a position or close a position whenever they like to.
 
+<!--truncate-->
+
 ### 2. DueDEX Features
 -   Up to 100x leverage trading, high return against high risks
 -   [Perpetual swap](https://duedex.zendesk.com/hc/en-us/articles/360022112373-What-s-a-Perpetual-Swap-Contract-)  without expiry date and daily settlement

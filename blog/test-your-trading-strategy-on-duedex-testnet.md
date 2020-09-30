@@ -11,6 +11,8 @@ tags: [DueDEX, Bitcoins]
 
 If you are not ready to go ahead with the derivatives trading yet, you can come to our sandbox testing exchange, [testnet.DueDEX.com](https://testnet.duedex.com/), to practice placing, executing and cancelling orders of various order types and sizes, which prepare you to get ready for some real transactions. You can sign up with a new account, deposit some testnet Bitcoin and interact with a test market that looks and feels exactly like the real thing.
 
+<!--truncate-->
+
 [Contract Guide](https://duedex.zendesk.com/hc/en-us/categories/360001892134-Contract-Guide)  is always be a good information reference for you.
 
 If you need further help, please contact us directly, we offer 24/7 multi-lingual, multi-channel caring customer service shown as below:
