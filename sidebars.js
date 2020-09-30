@@ -1,6 +1,6 @@
 module.exports = {
   sidebar: {
-    'Contract Guide': ['doc1', 'doc2', 'doc3'],
+    'Contract Guide': ['Liquidation-Price-USDT-Contract', 'doc2', 'doc3'],
     'Guide For NewUsers': ['mdx'],
     'DueDEX Education': ['mdx'],
     'Industry Insights': ['mdx'],
