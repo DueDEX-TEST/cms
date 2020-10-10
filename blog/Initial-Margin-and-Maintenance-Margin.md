@@ -14,7 +14,6 @@ tags: [DueDEX, Bitcoins]
 **Initial Margin**
 
 You can use leverage to open a Perpetual Contract position, which means you only need to put some margin to start. For example, if you would like to open a position of 10BTC, the leverage is 100x, the initial margin =10/100=0.1BTC.
-<!--truncate-->
 
 **Maintenance Margin**
 

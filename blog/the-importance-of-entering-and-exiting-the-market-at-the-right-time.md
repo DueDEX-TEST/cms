@@ -11,6 +11,8 @@ tags: [DueDEX, Bitcoins]
 ---
 
 Some argue that the current market is not suitable for short-term traders and that only the medium and long-term investors can make be profitable.
+<!--truncate-->
+
 
 That may be true for most, but it does not mean using short-term strategies cannot profitable.
 

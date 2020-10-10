@@ -15,6 +15,8 @@ tags: [DueDEX, Bitcoins]
 **Looking for overbought and oversold levels**
 
 By taking the time to understand how to trade sideways markets, you will be able to develop a more effective overall trading strategy, since almost all types of markets and almost all environments. will at some point move sideways.
+<!--truncate-->
+
 
 The first step is to identify support and resistance levels, which are the boundaries between the price of an asset - stocks, bonds, commodities, foreign exchange, or cryptocurrencies - moves over time. If there is no trend, such boundaries tend to remain relatively well defined, forming channels, which may be horizontal or pointing either upwards to downwards. (If the price is slowly rising or descending, without a clear direction.)
 

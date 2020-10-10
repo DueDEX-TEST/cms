@@ -11,6 +11,7 @@ tags: [DueDEX, Bitcoins]
 ---
 
 The Dow Theory appeared around1890, and it was its appearance that paved the way for the concept of technical analysis to spread. In many ways, the Dow theory was the basis for successive trading techniques, including the famous Elliott Wave Theory.
+<!--truncate-->
 
 **Introduction to the Dow Theory**
 

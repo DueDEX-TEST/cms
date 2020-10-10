@@ -12,6 +12,8 @@ tags: [DueDEX, Bitcoins]
 
 
 No trader wants to see his/her positions being liquidated. The feeling of an account shrinking from $5,000 to $1,000 will never be pleasant.
+<!--truncate-->
+
 
 At the same time, getting liquidated is often part of a trader's life - nearly all traders have experienced the pain of being liquidated at least once in their careers - and can even be a chance to learn from your mistakes and lay the basis for improvement.
 

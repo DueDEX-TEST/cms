@@ -11,6 +11,8 @@ tags: [DueDEX, Bitcoins]
 ---
 
 In the futures market, in addition to accurate market analysis and good capital control, the most important thing is to formulate a good futures operation strategy. Lack of a perfect operation strategy, even if the market analysis is 100% correct, it may lead to a tragic ending at a loss; if a perfect strategy is formulated, even if the market research and judgment is not always correct, it can still lead to a positive outcome in the market.
+<!--truncate-->
+
 
 **1.Time setting**
 

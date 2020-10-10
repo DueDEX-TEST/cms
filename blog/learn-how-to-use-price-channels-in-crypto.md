@@ -12,6 +12,7 @@ tags: [DueDEX, Bitcoins]
 
 
 Trading price channels is a type of trend trading which can be particularly effective when used in crypto, because crypto assets rarely fluctuate within a narrow range, but tend to develop into a stronger trends.
+<!--truncate-->
 
 **Channel trading**
 

@@ -12,6 +12,8 @@ tags: [DueDEX, Bitcoins]
 
 
 Today we will introduce a pure technical indicator: the golden cross. When this indicator was first discovered, crypto trading was not yet popular, and it was mostly used for stock trading. However, with the popularity of online investment transactions and the rise of crypto trading, the golden cross is enjoying a renaissance.
+<!--truncate-->
+
 
 **What is the golden cross?**
 

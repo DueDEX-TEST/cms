@@ -12,6 +12,8 @@ tags: [DueDEX, Bitcoins]
 
 
 The parabolic SAR - also known simply as SAR or “stop and reverse” - is a popular indicator used to gauge and possibly ride trends. It was first introduced by the prolific trader and technical analyst J. Welles Wilder, also the father of the Average True Range (ATR), the Relative Strength Index (RSI), and the Average Directional Index (ADX).
+<!--truncate-->
+
 
 Its formula changes depending on whether the market is trending up or down:
 

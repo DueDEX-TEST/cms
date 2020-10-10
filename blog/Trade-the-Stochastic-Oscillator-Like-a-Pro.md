@@ -13,6 +13,8 @@ tags: [DueDEX, Bitcoins]
 **Trading with the Stochastic Oscillator**
 
 The stochastic oscillator, along with the RSI, is one of the main momentum indicators used by traders to analyze the market. It is also one of the oldest, having been introduced by George Lane in the 1950s.
+<!--truncate-->
+
 
 The stochastic graphically appears as two lines plotted below the main price graph, named %K - the so-called “signal line” - and %D, the oscillator itself.
 

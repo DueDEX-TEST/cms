@@ -14,6 +14,8 @@ tags: [DueDEX, Bitcoins]
 
 Cryptocurrency funds mainly carry out two types of operations, risk-free arbitrage, and trend arbitrage. Whereas it may be hard for ordinary traders to replicate such strategies - they tend to be designed by talented and experienced operators and implemented by computer programs - the theory underpinning them is worth understanding for everyone.
 
+<!--truncate-->
+
 **What is arbitrage?**
 
 To understand arbitrage, one must first take into account the so-called Law of One Price, according to which in a perfectly competitive market, the price of identical assets will be the same anywhere.
