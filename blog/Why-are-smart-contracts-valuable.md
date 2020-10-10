@@ -13,6 +13,8 @@ tags: [DueDEX, Bitcoins]
 
 
 A smart contract is a program that is event-driven, stateful, recognized by multiple parties, runs on the blockchain, and can automatically process assets according to preset conditions. The biggest advantage of smart contracts is to use Program algorithm substitutes for arbitration and execution of contracts.
+<!--truncate-->
+
 
 A smart contract is a contract that uses computer language instead of legal language to record terms. Smart contracts can be executed automatically by a computing system. Simply put, smart contracts are digital versions of traditional contracts.
 
